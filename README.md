@@ -28,12 +28,6 @@ I'm a Data Science and Analytics professional with hands-on experience in data a
 - 🌱 I’m currently learning Cloud Computing and Machine Learning  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
