@@ -26,10 +26,7 @@ I'm a Data Science and Data Analytics professional with hands-on experience in d
   
 
 - 🌱 I’m currently learning Cloud Computing and Machine Learning  
-
-
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
