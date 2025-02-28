@@ -25,7 +25,7 @@ I'm a Data Science and Data Analytics professional with hands-on experience in d
 - 🔭 I’m currently working on [Github Supermarket Analysis](https://github.com/theylor999/iFood-Supermarket-Prices-Analysis)  
   
 
-- 🌱 I’m currently learning Cloud Computing and Machine Learning  
+- 🌱 I’m currently learning Cloud Computing, Machine Learning and reading 'The Art of Data Analysis' By Kristin H. Jarman
 <br/>  
 
 ## Languages and Tools  
