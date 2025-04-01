@@ -25,7 +25,7 @@ I'm a Data Science and Data Analytics professional with hands-on experience in d
 ## Projects & Learning
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Supermarket Analysis](https://github.com/theylor999/iFood-Supermarket-Prices-Analysis)  
+- 🔭 I’m currently working on OddsNotifier.
   
 
 - 🌱 I’m currently learning Machine Learning and reading *The Art of Data Analysis* by Kristin H. Jarman
