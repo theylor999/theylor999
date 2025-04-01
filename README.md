@@ -28,7 +28,7 @@ I'm a Data Science and Data Analytics professional with hands-on experience in d
 - 🔭 I’m currently working on a machine learning project at OddsNotifier.
   
 
-- 🌱 I’m currently learning Machine Learning and reading *The Art of Data Analysis* by Kristin H. Jarman
+- 🌱 I’m currently learning R Programming and studying statistics.
 <br/>  
 
 ## Languages and Tools  
