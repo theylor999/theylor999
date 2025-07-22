@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm a Data Science and Data Analytics professional with hands-on experience in data analysis, APIs, web scraping, Python, SQL, ETL, data visualization and technical support. My expertise allows me to process and interpret complex datasets, transforming raw data into actionable insights that drive informed decision-making. I currently work at OddsNotifier, as Head of Community.
+I'm a Data Science and Data Analytics professional with hands-on experience in data analysis, APIs, web scraping, Python, SQL, ETL, data visualization and technical support. My expertise allows me to process and interpret complex datasets, transforming raw data into actionable insights that drive informed decision-making. I currently work at nPlan, as Data Scientist Intern.
   
   
 
