@@ -25,7 +25,7 @@ I'm a Data Science and Data Analytics professional with hands-on experience in d
 ## Projects & Learning
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a machine learning project at OddsNotifier.
+- 🔭 I’m currently working on a demand forecast project at nPlan.
   
 
 - 🌱 I’m currently learning R Programming and studying statistics.
