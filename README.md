@@ -16,12 +16,10 @@ I enjoy working across the path from modeling and temporal validation to data pi
 
 ## Main stack
 
-- **Data & ML:** Python, pandas, scikit-learn, PyTorch, XGBoost, LightGBM, StatsForecast
+- **Data & ML:** Python, pandas, scikit-learn, PyTorch, Stats Forecast, Neural Forecast, Foundation Models, AutoML.
 - **Backend & data:** SQL, PostgreSQL, C#/.NET, FastAPI, REST APIs
-- **Product:** React, TypeScript, Next.js, Power BI
+- **Product:** React, TypeScript, Next.js
 
 ## Interests
 
-Time-series forecasting, exogenous data, model evaluation, applied AI and software engineering.
-
-Selected public projects and experiments are pinned below.
+Time-series forecasting, deep learning, foundation models, model evaluation, applied AI, AI Agents and software engineering.
