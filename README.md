@@ -1,25 +1,32 @@
 <div align="center">
 
-# Hi, I'm Theylor Machado
+# Theylor Machado
 
-**Data Scientist · Demand Forecasting · Time Series · Production ML**
+**Data Scientist at nPLAN**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://theylor.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theylor921/) [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:theylor921@hotmail.com)
+Demand Forecasting · Time Series · Production ML
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://theylor.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theylor921/)
+[![Email](https://img.shields.io/badge/Email-102A43?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:theylor921@hotmail.com)
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,postgres,cs,dotnet,react,ts,nextjs,git" alt="Python, PyTorch, scikit-learn, PostgreSQL, C#, .NET, React, TypeScript, Next.js, Git" />
 
 </div>
 
-## About
+<br />
 
-I build practical data and machine learning products, with a focus on demand forecasting, time series and production ML.
+I build demand-forecasting systems used in planning and S&OP — from research and temporal validation through APIs, databases and analytical interfaces.
 
-I enjoy working across the path from modeling and temporal validation to data pipelines, APIs and analytical interfaces.
+At **nPLAN** (NEO Digital Industries) I developed **20+ forecasting models** across statistical methods, machine learning, deep learning, foundation models and ensembles. That work raised accuracy by about **15%** over models already used by large companies, and cut processing time from roughly **8 hours to 2**.
 
-## Main stack
+```text
+Python  ·  C# / .NET  ·  PostgreSQL  ·  React / TypeScript
+Backtesting  ·  Multiple metrics  ·  Exogenous data  ·  GPU / CUDA
+```
 
-- **Data & ML:** Python, pandas, scikit-learn, PyTorch, Stats Forecast, Neural Forecast, Foundation Models, AutoML.
-- **Backend & data:** SQL, PostgreSQL, C#/.NET, FastAPI, REST APIs
-- **Product:** React, TypeScript, Next.js
-
-## Interests
-
-Time-series forecasting, deep learning, foundation models, model evaluation, applied AI, AI Agents and software engineering.
+Selected work: [theylor.vercel.app](https://theylor.vercel.app)
