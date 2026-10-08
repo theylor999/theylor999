@@ -10,6 +10,11 @@ At **nPLAN** I build demand forecasts for S&OP (sales and operations planning), 
   <img alt="Six demand profiles, each with the model that won its backtest: seasonal AutoARIMA, intermittent TSB, trend AutoNHITS, promotions AutoLGBM, short history Chronos, noisy ensemble. Accuracy +10 percentage points over the forecast clients used; model run time down from 8 hours to 2." src="assets/work-light.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/models-dark.svg">
+  <img alt="30+ forecasting models in six families. Statistical: AutoARIMA, AutoETS, AutoCES, Theta, Dynamic Theta, Seasonal Naive, moving averages. Intermittent: Croston, TSB, ADIDA, IMAPA. Boosting: XGBoost, LightGBM. Neural nets: NHITS, NBEATSx, TFT, DeepAR, BiTCN. Foundation: Chronos, TimesFM, Toto. Ensembles: per-series combinations." src="assets/models-light.svg">
+</picture>
+
 On the side: [Quanto custa o mercado](https://quanto-custa-o-mercado.vercel.app), supermarket prices from iFood across Brazil's 27 state capitals.
 
 ### Certifications

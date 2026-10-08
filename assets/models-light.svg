@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 208" width="880" height="208" role="img" aria-labelledby="t3 d3">
+<title id="t3">30+ forecasting models in six families</title>
+<desc id="d3">Statistical: AutoARIMA, AutoETS, AutoCES, Theta, Dynamic Theta, Seasonal Naive, moving averages. Intermittent: Croston, TSB, ADIDA, IMAPA. Boosting: XGBoost, LightGBM. Neural nets: NHITS, NBEATSx, TFT, DeepAR, BiTCN. Foundation: Chronos, TimesFM, Toto. Ensembles: per-series combinations.</desc>
+<style>
+text{fill:#1f2328;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12px}
+.m{fill:#656d76;font-size:11px}
+.f{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:13px;font-weight:600}
+.k{fill:#0f766e;font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:56px;font-weight:700;letter-spacing:-2px}
+.c{animation:up .7s cubic-bezier(.22,1,.36,1) both}
+@keyframes up{from{opacity:0;transform:translateY(6px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<text x="48" y="104" class="k">30+</text>
+<text x="48" y="130" class="m">forecasting models</text>
+<text x="48" y="146" class="m">in six families</text>
+<line x1="204" y1="44" x2="204" y2="184" stroke="#d0d7de"/>
+<g class="c" style="animation-delay:0.00s"><text x="232" y="58" class="f">Statistical</text><rect x="232" y="68" width="22" height="2" fill="#0f766e"/><text x="232" y="92" class="m">AutoARIMA</text><text x="232" y="109" class="m">AutoETS</text><text x="232" y="126" class="m">AutoCES</text><text x="232" y="143" class="m">Theta</text><text x="232" y="160" class="m">Dynamic Theta</text><text x="232" y="177" class="m">Seasonal Naive</text><text x="232" y="194" class="m">Moving avg.</text></g><g class="c" style="animation-delay:0.12s"><text x="332" y="58" class="f">Intermittent</text><rect x="332" y="68" width="22" height="2" fill="#0f766e"/><text x="332" y="92" class="m">Croston</text><text x="332" y="109" class="m">TSB</text><text x="332" y="126" class="m">ADIDA</text><text x="332" y="143" class="m">IMAPA</text></g><g class="c" style="animation-delay:0.24s"><text x="432" y="58" class="f">Boosting</text><rect x="432" y="68" width="22" height="2" fill="#0f766e"/><text x="432" y="92" class="m">XGBoost</text><text x="432" y="109" class="m">LightGBM</text></g><g class="c" style="animation-delay:0.36s"><text x="532" y="58" class="f">Neural nets</text><rect x="532" y="68" width="22" height="2" fill="#0f766e"/><text x="532" y="92" class="m">NHITS</text><text x="532" y="109" class="m">NBEATSx</text><text x="532" y="126" class="m">TFT</text><text x="532" y="143" class="m">DeepAR</text><text x="532" y="160" class="m">BiTCN</text></g><g class="c" style="animation-delay:0.48s"><text x="632" y="58" class="f">Foundation</text><rect x="632" y="68" width="22" height="2" fill="#0f766e"/><text x="632" y="92" class="m">Chronos</text><text x="632" y="109" class="m">TimesFM</text><text x="632" y="126" class="m">Toto</text></g><g class="c" style="animation-delay:0.60s"><text x="732" y="58" class="f">Ensembles</text><rect x="732" y="68" width="22" height="2" fill="#0f766e"/><text x="732" y="92" class="m">per-series</text><text x="732" y="109" class="m">combinations</text></g>
+</svg>
