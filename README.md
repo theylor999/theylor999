@@ -3,7 +3,7 @@
   <img alt="Theylor Machado. A weekly demand series, a backtest window and a forecast with 80% and 95% intervals." src="assets/header-light.svg">
 </picture>
 
-At **nPLAN** I build demand forecasts for S&OP (sales and operations planning), plus the software around them: Python pipelines, C#/.NET and PostgreSQL services, and the React screens where planners use the numbers. So far: **+10 pp** accuracy over the forecast clients already used, and model runs down from **8h to 2h**.
+At **nPLAN** I build demand forecasts for S&OP (sales and operations planning), plus the software around them: Python pipelines, C#/.NET and PostgreSQL services, and the React screens where planners use the numbers. The forecast I develop is **+10 pp more accurate** than the one already used by multiple clients, and model runs dropped from **8h to 2h**.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/models-dark.svg">
