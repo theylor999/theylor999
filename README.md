@@ -3,16 +3,11 @@
   <img alt="Theylor Machado. A weekly demand series, a backtest window and a forecast with 80% and 95% intervals." src="assets/header-light.svg">
 </picture>
 
-At **nPLAN** I build demand forecasts for S&OP (sales and operations planning), plus the software around them: Python pipelines, C#/.NET and PostgreSQL services, and the React screens where planners use the numbers.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
-  <img alt="Six demand profiles, each with the model that won its backtest: seasonal AutoARIMA, intermittent TSB, trend AutoNHITS, promotions AutoLGBM, short history Chronos, noisy ensemble. Accuracy +10 percentage points over the forecast clients used; model run time down from 8 hours to 2." src="assets/work-light.svg">
-</picture>
+At **nPLAN** I build demand forecasts for S&OP (sales and operations planning), plus the software around them: Python pipelines, C#/.NET and PostgreSQL services, and the React screens where planners use the numbers. So far: **+10 pp** accuracy over the forecast clients already used, and model runs down from **8h to 2h**.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/models-dark.svg">
-  <img alt="30+ forecasting models in six families. Statistical: AutoARIMA, AutoETS, AutoCES, Theta, Dynamic Theta, Seasonal Naive, moving averages. Intermittent: Croston, TSB, ADIDA, IMAPA. Boosting: XGBoost, LightGBM. Neural nets: NHITS, NBEATSx, TFT, DeepAR, BiTCN. Foundation: Chronos, TimesFM, Toto. Ensembles: per-series combinations." src="assets/models-light.svg">
+  <img alt="30+ forecasting models I have worked with, across six families: statistical, intermittent demand, gradient boosting, neural networks, foundation models and ensembles." src="assets/models-light.svg">
 </picture>
 
 On the side: [Quanto custa o mercado](https://quanto-custa-o-mercado.vercel.app), supermarket prices from iFood across Brazil's 27 state capitals.
@@ -27,6 +22,7 @@ On the side: [Quanto custa o mercado](https://quanto-custa-o-mercado.vercel.app)
 
 **Forecasting** &nbsp;`StatsForecast` `MLForecast` `NeuralForecast` `statsmodels` `Chronos` `TimesFM` `GluonTS`<br>
 **Machine learning** &nbsp;`PyTorch` `scikit-learn` `LightGBM` `XGBoost` `Ray Tune` `CUDA`<br>
-**Data and software** &nbsp;`Python` `pandas` `NumPy` `PostgreSQL` `C# / .NET` `React` `TypeScript`
+**Data and BI** &nbsp;`Python` `pandas` `NumPy` `PostgreSQL` `Power BI` `Apache Superset`<br>
+**Software** &nbsp;`C# / .NET` `React` `TypeScript`
 
 [theylor.dev](https://theylor.dev) · [contato@theylor.dev](mailto:contato@theylor.dev) · [LinkedIn](https://www.linkedin.com/in/theylor921/)
