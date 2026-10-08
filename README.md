@@ -1,32 +1,33 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Theylor Machado. A weekly demand series that steps up in July 2025, when I joined nPLAN, followed by a forecast with 80% and 95% intervals." src="assets/header-light.svg">
+</picture>
 
-# Theylor Machado
+The chart is my job in one picture: weekly history on the left, a forecast with its uncertainty on the right. The step in July 2025 is when I joined nPLAN.
 
-**Data Scientist at nPLAN**
+At nPLAN I build demand forecasts that planning teams use in S&OP, and the software around them: the Python pipelines, the C#/.NET and PostgreSQL services, and the React screens where planners read the numbers.
 
-Demand Forecasting · Time Series · Production ML
+- **+10 pp** accuracy over the forecast that several clients were already using
+- **8h → 2h** model processing time, with GPU/CUDA, batching and caching
+- **20+** forecasting models built and backtested: statistical, gradient boosting, deep learning, foundation models, ensembles
 
-<br />
+### How I check a forecast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://theylor.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theylor921/)
-[![Email](https://img.shields.io/badge/Email-102A43?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:theylor921@hotmail.com)
+1. Backtest the way the model will meet the future: holdout, expanding and sliding windows.
+2. Choose the model per series. No single model wins on every series.
+3. Use an external signal only if it was available on the forecast date. Anything else is leakage.
+4. Look at bias and intervals, not just the error number.
 
-<br />
+### Outside work
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,postgres,cs,dotnet,react,ts,nextjs,git" alt="Python, PyTorch, scikit-learn, PostgreSQL, C#, .NET, React, TypeScript, Next.js, Git" />
+**[Quanto custa o mercado](https://quanto-custa-o-mercado.vercel.app)** collects public supermarket prices from iFood in the 27 Brazilian state capitals: 161k clean prices from 1,179 stores, compared item by item between states and chains. ([code](https://github.com/theylor999/quanto-custa-o-mercado))
 
-</div>
+**Multiple** is a Windows app in C#/.NET that shares one mouse, keyboard, clipboard and audio across computers on the same network, over UDP/TCP.
 
-<br />
+### Before nPLAN
 
-I build demand-forecasting systems used in planning and S&OP — from research and temporal validation through APIs, databases and analytical interfaces.
+Data scientist at Odds Notifier (Norway, remote), where I used ML and LLMs to classify and prioritize customer-support messages. I'm studying Data Science at UNINTER and completed the Johns Hopkins Data Science Specialization.
 
-At **nPLAN** (NEO Digital Industries) I developed **20+ forecasting models** across statistical methods, machine learning, deep learning, foundation models and ensembles. That work raised accuracy by about **15%** over models already used by large companies, and cut processing time from roughly **8 hours to 2**.
+`Python` `C# / .NET` `EF Core` `PostgreSQL` `React` `TypeScript` `GPU / CUDA`
 
-```text
-Python  ·  C# / .NET  ·  PostgreSQL  ·  React / TypeScript
-Backtesting  ·  Multiple metrics  ·  Exogenous data  ·  GPU / CUDA
-```
-
-Selected work: [theylor.vercel.app](https://theylor.vercel.app)
+[theylor.dev](https://theylor.dev) · [contato@theylor.dev](mailto:contato@theylor.dev) · [LinkedIn](https://www.linkedin.com/in/theylor921/)
