@@ -11,8 +11,12 @@ On the side: [Quanto custa o mercado](https://quanto-custa-o-mercado.vercel.app)
 
 <img src="assets/anthropic.svg" height="20" align="center" alt=""> &nbsp;**[Claude Certified Developer](https://www.credly.com/badges/ed806f2a-da35-485d-a8e0-d5d228b6968c/public_url)**, Anthropic, 2026
 
-<img src="assets/jhu.png" height="20" align="center" alt=""> &nbsp;**[Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)**, Johns Hopkins University, 2026
+<img src="assets/jhu.png" height="20" align="center" alt=""> &nbsp;**[Data Science Specialization](https://theylor.dev/#education)**, Johns Hopkins University, 2026
 
-`Python` `C# / .NET` `PostgreSQL` `React` `TypeScript` `GPU / CUDA`
+### Tools
+
+**Forecasting** &nbsp;`StatsForecast` `MLForecast` `NeuralForecast` `statsmodels` `Chronos` `TimesFM` `GluonTS`<br>
+**Machine learning** &nbsp;`PyTorch` `scikit-learn` `LightGBM` `XGBoost` `Ray Tune` `CUDA`<br>
+**Data and software** &nbsp;`Python` `pandas` `NumPy` `PostgreSQL` `C# / .NET` `React` `TypeScript`
 
 [theylor.dev](https://theylor.dev) · [contato@theylor.dev](mailto:contato@theylor.dev) · [LinkedIn](https://www.linkedin.com/in/theylor921/)
