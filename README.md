@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Theylor Machado. A weekly demand series that steps up in July 2025, when I joined nPLAN, followed by a forecast with 80% and 95% intervals." src="assets/header-light.svg">
+  <img alt="Theylor Machado. A weekly demand series, a backtest window where a model forecast is checked against data it never saw, and a forecast with 80% and 95% intervals." src="assets/header-light.svg">
 </picture>
 
-The chart is my job in one picture: weekly history on the left, a forecast with its uncertainty on the right. The step in July 2025 is when I joined nPLAN.
+The chart is my job in one picture. First the history. Then a backtest, where the model forecasts weeks it never saw and the dashed line is compared with what happened. Only after that comes the forecast, with its uncertainty.
 
 At nPLAN I build demand forecasts that planning teams use in S&OP, and the software around them: the Python pipelines, the C#/.NET and PostgreSQL services, and the React screens where planners read the numbers.
 
